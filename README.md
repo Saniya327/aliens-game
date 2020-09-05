@@ -1,3 +1,3 @@
 # aliens-game
-# aliens-game
-# aliens-game
+
+A scrollable shooting game written using pygame
